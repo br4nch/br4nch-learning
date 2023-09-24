@@ -128,13 +128,21 @@
                 "file": "AWS/DynamoDB.md"
               }
             }
+          },
+          {
+            "id": "4e8426c8e2d31b74",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,9 +154,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9071b6364a0022e",
+  "active": "e0d7f1cb242cb415",
   "lastOpenFiles": [
-    "AWS",
-    "AWS/DynamoDB.md"
+    "AWS/DynamoDB.md",
+    "AWS"
   ]
 }
