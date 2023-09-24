@@ -38,6 +38,6 @@ Lambda can be integrated to provide trigger functionality - invoking when new en
 	- Supports write-through
 	- DAX Deployed **Within a VPC**
 - DynamoDB Global Tables
-	- 
+	- nice
 
 #aws #dynamodb #ddb #ddb-streams #ddb-triggers #ddb-dax #within-vpc
